@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pandas>=2.2.0
+numpy>=1.26.0,<2.0
+scikit-learn>=1.4.0
+tensorflow>=2.16.0,<2.20
+yfinance>=0.2.40
+pymongo>=4.7.0
+python-dotenv>=1.0.0
+joblib>=1.4.0
